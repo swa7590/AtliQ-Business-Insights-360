@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview: Business Insights 360 for AtliQ Hardwares
 This project delivers a comprehensive Business Intelligence (BI) solution designed to improve performance across Finance, Sales, Marketing, Supply Chain, and Executive Management at AtliQ Hardwares. 
-# The goal: empower teams with data-driven insights to improve decision-making and profitability.
+#### The goal: empower teams with data-driven insights to improve decision-making and profitability.
 
 ## 🔗 Live Dashboard: 
 
