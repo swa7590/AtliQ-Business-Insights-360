@@ -1,16 +1,16 @@
-# AtliQ-Business-Insights-360
+### AtliQ-Business-Insights-360
 
-## 📊 Project Overview: Business Insights 360 for AtliQ Hardwares
+### 📊 Project Overview: Business Insights 360 for AtliQ Hardwares
 This project delivers a comprehensive Business Intelligence (BI) solution designed to improve performance across Finance, Sales, Marketing, Supply Chain, and Executive Management at AtliQ Hardwares. 
 #### The goal: empower teams with data-driven insights to improve decision-making and profitability.
 
-### 🔗 Live Dashboard: 
+#### 🔗 Live Dashboard: 
 
-### 🎥 Project Walkthrough Video: 
+#### 🎥 Project Walkthrough Video: 
 
-### 💼 Functional Dashboards & Key Highlights:
+#### 💼 Functional Dashboards & Key Highlights:
 
-### 💰 Finance View:
+#### 💰 Finance View:
 #### Objectives: 
 • Improve financial planning and budgeting.
 
@@ -82,7 +82,7 @@ This project delivers a comprehensive Business Intelligence (BI) solution design
 
 • Report optimization using DAX Studio.
 
-####  💻 Tech Stack:
+###  💻 Tech Stack:
 • SQL / MySQL – Data extraction & transformation.
 
 • Power BI Desktop – Dashboard creation.
@@ -91,7 +91,7 @@ This project delivers a comprehensive Business Intelligence (BI) solution design
 
 • DAX Studio – File optimization & performance tuning.
 
-####  📚 Business Concepts Covered:
+###  📚 Business Concepts Covered:
 • Net Sales, Gross Margin & Profit.
 
 • COGS (Cost of Goods Sold), YTD/YTG.
@@ -100,12 +100,12 @@ This project delivers a comprehensive Business Intelligence (BI) solution design
 
 • Market channels: Retailer, Direct, Consumer, Distributor.
 
-####  🤝 Soft Skills Developed:
+###  🤝 Soft Skills Developed:
 • Stakeholder mapping & communication.
 
 • Interpreting business needs across departments.
 
 • Domain knowledge in Finance, Sales, Marketing & Supply Chain.
 
-####  ✅ Conclusion:
+###  ✅ Conclusion:
 Business Insights 360 empowers AtliQ Hardware to make real-time, data-driven decisions—identifying profit leaks, optimizing supply, and strengthening market position.
