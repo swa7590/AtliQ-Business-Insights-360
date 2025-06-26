@@ -4,7 +4,7 @@
 This project delivers a comprehensive Business Intelligence (BI) solution designed to improve performance across Finance, Sales, Marketing, Supply Chain, and Executive Management at AtliQ Hardwares. 
 #### The goal: empower teams with data-driven insights to improve decision-making and profitability.
 
-#### 🔗 Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOTZmNGExOWMtNTRjMS00ZWYxLTg1NTQtOWJmM2IwOGM1YjZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+#### 🔗 Live Dashboard: http://bit.ly/4kZZcsd
 
 #### 🎥 Project Walkthrough Video: 
 
