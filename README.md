@@ -6,7 +6,7 @@ This project delivers a comprehensive Business Intelligence (BI) solution design
 
 #### 🔗 Live Dashboard: http://bit.ly/4kZZcsd
 
-#### 🎥 Project Walkthrough Video: 
+#### 🎥 Project Walkthrough Video: https://www.linkedin.com/feed/update/urn:li:activity:7346166940765204480/
 
 #### 💼 Functional Dashboards & Key Highlights:
 
